@@ -3,9 +3,10 @@
  * Plugin Name: Book Info Integration
  * Description: Snags book details from the Open Library API and showcases them in a nifty meta box for WooCommerce products and regular posts.
  * Tags: book, library, open library, WooCommerce, meta box
+ * Author:      Amir F (Goonzchief)
  * Stable Tag: 1.0.0
  * License: MIT
- * Author URI:
+ * Author URI: https://github.com/goonzchief
  * Requires PHP: 7.0
  * Requires at least: 5.0
  * Tested up to: 5.9
